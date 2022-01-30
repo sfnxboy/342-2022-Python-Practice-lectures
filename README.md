@@ -23,3 +23,4 @@ This repository holds the translations for Professor Adam Kapelner's 342 Data Sc
 ## Python Labs
 - [Lab 1](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Labs/Lab%201%20-%20Python%20Lab.ipynb)
 - [Lab 2](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Labs/Lab%202%20-%20Python%20Lab.ipynb)
+- [Lab 3](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Labs/Lab%203%20-%20Python%20Lab.ipynb)
