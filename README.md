@@ -3,6 +3,7 @@
 This repository holds the translations for Professor Adam Kapelner's 342 Data Science via Machine Learning practice demos and labs. There are 24 practice demos, and 10 labs. I will continuously update these files, at least until the end of the Spring semester.
 
 
+### Demos per Lecture
 - [Lecture 3 - Python Basics](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/3%20-%20Python%20Practice%20Lecture%203%20MATH%20342W%20Queens%20College%20-%20The%20Basics.ipynb)
 - [Lecture 4 - More Data Structures, Pandas, and Functions](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/4%20-%20Python%20Practice%20Lecture%204%20MATH%20342W%20Queens%20College%20-%20More%20Data%20Structures%2C%20Pandas%20and%20Functions.ipynb)
 - [Lecture 5 - First Models: g0, Threshold, Perceptron](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/5%20-%20Python%20Practice%20Lecture%205%20MATH%20342W%20Queens%20College%20-%20Threshold%20%26%20Perceptron.ipynb)
@@ -18,3 +19,5 @@ This repository holds the translations for Professor Adam Kapelner's 342 Data Sc
 - [Lecture 15 - Eigen Decomposition and Your Guide to Data Viz](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/15%20-%20Python%20Practice%20Lecture%2015%20MATH%20342W%20Queens%20College%20-%20Guide%20to%20Data%20Visualization.ipynb)
 - [Lecture 16 - K-fold Cross Validation](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/16%20-%20Python%20Practice%20Lecture%2016%20MATH%20342W%20Queens%20College%20-%20K-fold%20Cross%20Validation.ipynb)
 - [Lecture 17 - Logistic Regression](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/17%20-%20Python%20Practice%20Lecture%2017%20MATH%20342W%20Queens%20College%20-%20Logistic%20Regression.ipynb)
+
+## Python Labs
