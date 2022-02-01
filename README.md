@@ -39,7 +39,7 @@ Refer to the [setup](https://github.com/sfnxboy/342-2022-Python-Practice-lecture
 
 - [Style Guide for Python Code PEP 8](https://www.python.org/dev/peps/pep-0008/)
 #### Online IDE:
-- [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) (alternative to jupyter notebook)
+- [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) (alternative to Jupyter Notebook)
 - [Replit](https://replit.com/~)
 
 #### Crash Course: 
