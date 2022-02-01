@@ -48,7 +48,7 @@ Refer to the [setup](https://github.com/sfnxboy/342-2022-Python-Practice-lecture
 
 #### Textbooks:
 - [Green Tea Press](https://greenteapress.com/wp/think-python-2e/)
-- [Second Edition of Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Second Edition of Automate the Boring Stuff with Python](https://automatetheboringstuff.com/) (really worth checking out)
 - [Dive Into Python3](https://diveintopython3.net/)
 
 #### Interactive Learning:
