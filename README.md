@@ -1,4 +1,4 @@
-# 342-2022 Python Practice lectures
+# QC Math 342W - 2022 Python Practice lectures
 
 This repository holds the translations for Professor Adam Kapelner's 342 Data Science via Machine Learning practice demos and labs. There are 24 practice demos, and 10 labs. I will continuously update these files, at least until the end of the Spring semester.
 
