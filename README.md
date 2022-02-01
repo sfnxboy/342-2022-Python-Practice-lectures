@@ -6,7 +6,7 @@ These notes are based off of the [Math 342W Spring **2021**](https://github.com/
 
 These notes were made for the [Math 342W Spring **2022**](https://github.com/kapelner/QC_MATH_342W_Spring_2022) semester.
 
-Refer to the [setup](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Jupyter_Setup.md) to use Jupyter Notebook via the Anaconda Distribution.
+Refer to the [setup](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Jupyter_Setup.md) to use Jupyter Notebook via the Anaconda distribution.
 
 ---
 
