@@ -2,6 +2,9 @@
 
 This repository holds the translations for Professor Adam Kapelner's 342 Data Science via Machine Learning practice demos and labs. There are 24 practice demos, and 10 labs. I will continuously update these files, at least until the end of the Spring semester.
 
+Refer to the [setup](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Jupyter_Setup.md) to use Jupyter Notebook via the Anaconda Distribution.
+
+---
 
 ### Demos per Lecture
 - [Lecture 3 - Python Basics](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/3%20-%20Python%20Practice%20Lecture%203%20MATH%20342W%20Queens%20College%20-%20The%20Basics.ipynb)
@@ -20,8 +23,33 @@ This repository holds the translations for Professor Adam Kapelner's 342 Data Sc
 - [Lecture 16 - K-fold Cross Validation](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/16%20-%20Python%20Practice%20Lecture%2016%20MATH%20342W%20Queens%20College%20-%20K-fold%20Cross%20Validation.ipynb)
 - [Lecture 17 - Logistic Regression](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/17%20-%20Python%20Practice%20Lecture%2017%20MATH%20342W%20Queens%20College%20-%20Logistic%20Regression.ipynb)
 
+---
 ## Python Labs
 - [Lab 1](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Labs/Lab%201%20-%20Python%20Lab.ipynb)
 - [Lab 2](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Labs/Lab%202%20-%20Python%20Lab.ipynb)
 - [Lab 3](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Labs/Lab%203%20-%20Python%20Lab.ipynb)
 - [Lab 4](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Labs/Lab%204%20-%20Python%20Lab.ipynb)
+
+---
+### Resources
+
+- [Style Guide for Python Code PEP 8](https://www.python.org/dev/peps/pep-0008/)
+#### Online IDE:
+- [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true) (alternative to jupyter notebook)
+- [Replit](https://replit.com/~)
+
+#### Crash Course: 
+- [Harvard Crash Course: cs50 week 6 in Python](https://cs50.harvard.edu/college/2019/fall/weeks/6/)
+- [Udacity: Data Structures and Algorithms in Python](https://www.udacity.com/course/data-structures-and-algorithms-in-python--ud513)
+
+#### Textbooks:
+- [Green Tea Press](https://greenteapress.com/wp/think-python-2e/)
+- [Second Edition of Automate the Boring Stuff with Python](https://automatetheboringstuff.com/)
+- [Dive Into Python3](https://diveintopython3.net/)
+
+#### Interactive Learning:
+- [Learn Python](https://www.learnpython.org)
+- [Scrimba](https://scrimba.com/g/gpython)
+
+#### Practice Python Coding:
+- [Hackerrank](https://www.hackerrank.com/domains/python)
