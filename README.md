@@ -3,6 +3,7 @@
 This repository holds the translations for Professor Adam Kapelner's 342 Data Science via Machine Learning practice demos and labs. There are 24 practice demos, and 10 labs. I will continuously update these files, at least until the end of the Spring semester.
 
 These notes are based off of the [Math 342W Spring **2021**](https://github.com/kapelner/QC_MATH_342W_Spring_2021) semester.
+
 These notes were made for the [Math 342W Spring **2022**](https://github.com/kapelner/QC_MATH_342W_Spring_2022) semester.
 
 Refer to the [setup](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Jupyter_Setup.md) to use Jupyter Notebook via the Anaconda Distribution.
