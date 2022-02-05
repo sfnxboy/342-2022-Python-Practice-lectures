@@ -10,7 +10,7 @@ Refer to the [setup](https://github.com/sfnxboy/342-2022-Python-Practice-lecture
 
 ---
 
-### Demos per Lecture
+## Demos per Lecture
 - [Lecture 3 - Python Basics](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/3%20-%20Python%20Practice%20Lecture%203%20MATH%20342W%20Queens%20College%20-%20The%20Basics.ipynb)
 - [Lecture 4 - More Data Structures, Pandas, and Functions](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/4%20-%20Python%20Practice%20Lecture%204%20MATH%20342W%20Queens%20College%20-%20More%20Data%20Structures%2C%20Pandas%20and%20Functions.ipynb)
 - [Lecture 5 - First Models: g_0, Threshold, Perceptron](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/5%20-%20Python%20Practice%20Lecture%205%20MATH%20342W%20Queens%20College%20-%20Threshold%20%26%20Perceptron.ipynb)
@@ -35,7 +35,7 @@ Refer to the [setup](https://github.com/sfnxboy/342-2022-Python-Practice-lecture
 - [Lab 4](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Labs/Lab%204%20-%20Python%20Lab.ipynb)
 
 ---
-### Resources
+## Resources
 
 - [Style Guide for Python Code PEP 8](https://www.python.org/dev/peps/pep-0008/)
 #### Online IDE:
