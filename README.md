@@ -1,4 +1,4 @@
-# QC Math 342W - 2022 Python Practice lectures
+# QC Math 342W - 2022 Python Notes
 
 This repository holds the translations for Professor Adam Kapelner's 342 Data Science via Machine Learning practice demos and labs. There are 24 practice demos, and 10 labs. I will continuously update these files, at least until the end of the Spring semester.
 
@@ -27,6 +27,8 @@ Refer to the [setup](https://github.com/sfnxboy/342-2022-Python-Practice-lecture
 - [Lecture 16 - K-fold Cross Validation](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/16%20-%20Python%20Practice%20Lecture%2016%20MATH%20342W%20Queens%20College%20-%20K-fold%20Cross%20Validation.ipynb)
 - [Lecture 17 - Logistic Regression](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/17%20-%20Python%20Practice%20Lecture%2017%20MATH%20342W%20Queens%20College%20-%20Logistic%20Regression.ipynb)
 - [Lecture 19 - Model Selection](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/19%20-%20Python%20Practice%20Lecture%2019%20MATH%20342W%20Queens%20College%20-%20Model%20Selection.ipynb)
+- [Lecture 21 - Probability Estimation for Classification](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/21-%20Python%20Practice%20Lecture%2021%20MATH%20342W%20Queens%20College%20-%20Probability%20Estimation%20for%20Classification.ipynb)
+
 
 ---
 ## Python Labs
