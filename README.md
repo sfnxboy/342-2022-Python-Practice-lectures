@@ -26,6 +26,7 @@ Refer to the [setup](https://github.com/sfnxboy/342-2022-Python-Practice-lecture
 - [Lecture 15 - Eigen Decomposition and Your Guide to Data Viz](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/15%20-%20Python%20Practice%20Lecture%2015%20MATH%20342W%20Queens%20College%20-%20Guide%20to%20Data%20Visualization.ipynb)
 - [Lecture 16 - K-fold Cross Validation](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/16%20-%20Python%20Practice%20Lecture%2016%20MATH%20342W%20Queens%20College%20-%20K-fold%20Cross%20Validation.ipynb)
 - [Lecture 17 - Logistic Regression](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/17%20-%20Python%20Practice%20Lecture%2017%20MATH%20342W%20Queens%20College%20-%20Logistic%20Regression.ipynb)
+- [Lecture 19 - Model Selection](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/19%20-%20Python%20Practice%20Lecture%2019%20MATH%20342W%20Queens%20College%20-%20Model%20Selection.ipynb)
 
 ---
 ## Python Labs
