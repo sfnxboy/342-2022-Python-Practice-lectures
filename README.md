@@ -8,6 +8,8 @@ These notes were made for the [Math 342W Spring **2022**](https://github.com/kap
 
 Refer to the [setup](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Jupyter_Setup.md) to use Jupyter Notebook via the Anaconda distribution.
 
+These notes were first creater by Professor Adam Kapelner in R and translated into Python by Amir ElTabakh.
+
 ---
 
 ## Demos per Lecture
