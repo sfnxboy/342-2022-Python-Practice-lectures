@@ -29,6 +29,7 @@ These notes were first creater by Professor Adam Kapelner in R and translated in
 - [Lecture 16 - K-fold Cross Validation](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/16%20-%20Python%20Practice%20Lecture%2016%20MATH%20342W%20Queens%20College%20-%20K-fold%20Cross%20Validation.ipynb)
 - [Lecture 17 - Logistic Regression](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/17%20-%20Python%20Practice%20Lecture%2017%20MATH%20342W%20Queens%20College%20-%20Logistic%20Regression.ipynb)
 - [Lecture 19 - Model Selection](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/19%20-%20Python%20Practice%20Lecture%2019%20MATH%20342W%20Queens%20College%20-%20Model%20Selection.ipynb)
+- [Lecture 20 - Regression Trees](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/20%20-%20Python%20Practice%20Lecture%2020%20MATH%20342W%20Queens%20College%20-%20Regression%20Trees.ipynb)
 - [Lecture 21 - Probability Estimation for Classification](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/21-%20Python%20Practice%20Lecture%2021%20MATH%20342W%20Queens%20College%20-%20Probability%20Estimation%20for%20Classification.ipynb)
 
 
