@@ -32,6 +32,7 @@ These notes were first created by Professor Adam Kapelner in R and translated in
 - [Lecture 20 - Regression Trees](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/20%20-%20Python%20Practice%20Lecture%2020%20MATH%20342W%20Queens%20College%20-%20Regression%20Trees.ipynb)
 - [Lecture 21 - Joins and Probability Estimation](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/21-%20Python%20Practice%20Lecture%2021%20MATH%20342W%20Queens%20College%20-%20Probability%20Estimation%20for%20Classification.ipynb)
 - [Lecture 22 - Using Probability Estimation for Classification](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/22-%20Python%20Practice%20Lecture%2022%20MATH%20342W%20Queens%20College%20-%20Using%20Probability%20Estimation%20for%20Classification.ipynb)
+- [Lecture 23 - Bias-Variance Decomposition](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/23-%20Python%20Practice%20Lecture%2023%20MATH%20342W%20Queens%20College%20-%20Bias%20Variance%20Decomposition.ipynb)
 
 ---
 ## Python Labs
