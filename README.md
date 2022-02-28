@@ -33,6 +33,7 @@ These notes were first created by Professor Adam Kapelner in R and translated in
 - [Lecture 21 - Joins and Probability Estimation](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/21-%20Python%20Practice%20Lecture%2021%20MATH%20342W%20Queens%20College%20-%20Probability%20Estimation%20for%20Classification.ipynb)
 - [Lecture 22 - Using Probability Estimation for Classification](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/22-%20Python%20Practice%20Lecture%2022%20MATH%20342W%20Queens%20College%20-%20Using%20Probability%20Estimation%20for%20Classification.ipynb)
 - [Lecture 23 - Bias-Variance Decomposition](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/23-%20Python%20Practice%20Lecture%2023%20MATH%20342W%20Queens%20College%20-%20Bias%20Variance%20Decomposition.ipynb)
+- [Lecture 25 - Missingness, Missforest, and Spurious Correlations](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Practice%20Notes/25%20-%20Python%20Practice%20Lecture%2025%20MATH%20342W%20Queens%20College%20-%20Missingness.ipynb)
 
 ---
 ## Python Labs
@@ -40,7 +41,10 @@ These notes were first created by Professor Adam Kapelner in R and translated in
 - [Lab 2](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Labs/Lab%202%20-%20Python%20Lab.ipynb)
 - [Lab 3](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Labs/Lab%203%20-%20Python%20Lab.ipynb)
 - [Lab 4](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Labs/Lab%204%20-%20Python%20Lab.ipynb)
-
+- [Lab 5](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Labs/Lab%205%20-%20Python%20Lab.ipynb)
+- [Lab 6](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Labs/Lab%206%20-%20Python%20Lab.ipynb)
+- [Lab 7](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Labs/Lab%207%20-%20Python%20Lab.ipynb)
+- [Lab 8](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Labs/Lab%208%20-%20Python%20Labs.ipynb)
 ---
 ## Resources
 
