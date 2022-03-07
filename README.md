@@ -45,6 +45,9 @@ These notes were first created by Professor Adam Kapelner in R and translated in
 - [Lab 6](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Labs/Lab%206%20-%20Python%20Lab.ipynb)
 - [Lab 7](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Labs/Lab%207%20-%20Python%20Lab.ipynb)
 - [Lab 8](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Labs/Lab%208%20-%20Python%20Labs.ipynb)
+- [Lab 9](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Labs/Lab%209%20-%20Python%20Labs.ipynb)
+- [Lab 10](https://github.com/sfnxboy/342-2022-Python-Practice-lectures/blob/main/Labs/Lab%2010%20-%20Python%20Labs.ipynb)
+
 ---
 ## Resources
 
